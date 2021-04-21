@@ -36,3 +36,34 @@
 33. What is Supermost interface in Collection and Collection Hirearchy.
 34. How can you run a docker container as non root or sudo user.
 35. Producer and Consumer problem.
+36. There are 3 Threads.Start the Third Thred either first or second Tread executuin completed.
+37. How to make a List as immutable.
+38. Create a Immutable class.
+39. Binary Search in Java.
+40. Reverse a word without any predefined methods Ex: I/P:- "My name is Harsha"  O/P:- "Harsha is name My".
+41. By using Java8 feature convert list of strings to integer.
+42. Pass list of values into spring rest endpoint(GET/POST).
+43. Delete Loop in LinkedList.
+44. find the first non repeated char in String.
+45. Priority Quee.
+46. Explain Merge Sort, Quick Sort.
+47. Time Complexity of MergeSort.
+48. How do HashTable deal with Hash Collisions.
+49. How to Solve Hash Collision.
+50. Kth smallest element in unsorted array.
+51. Linked HashSet example and difference between HashSet and LinkedHashSet.
+52. Is Wrapper class mutable.
+53. Explain ThreadPool and Connection Pool.
+54. How to compare two objects in Java.
+55. Thread safe Collecton.
+56. How many ways we can do thread safe (or) How many ways to make a List is thread safe.
+57. Explain facade design pattern.
+58. Feign client, Circuit Breaker, Fault tollerence.
+59. Explain Ribbon.
+60. Spring cloud config server and managing multiple instances with spring config server.
+61. Multiple instances of same micro service using same spring config server if i do refresf is it effect on all incatnces or any specific instances.  
+62. Write programe for blanced braces.
+        I/P: -> "[]" -> true
+        I/P: -> "{()}" -> true
+        I/P: -> "{}[]" -> true
+        I/P: -> "[]{" -> false
