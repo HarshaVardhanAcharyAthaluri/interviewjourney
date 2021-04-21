@@ -67,3 +67,22 @@
         I/P: -> "{()}" -> true
         I/P: -> "{}[]" -> true
         I/P: -> "[]{" -> false
+        
+        
+### SQL
+1. Find the Second highest second salary of Employee.
+2. How to get all the data from two tables.
+3. What is deffenece between Delete, Drop, Truncate.
+4. What is view.
+5. Can i drop view.
+6. Find the duplicate records.
+7. Difference between reqular expression and LIKE operator.
+8. Explain indexes in SQL.
+9. How we can get modified (or) effected records count in SQL.
+10. How to get row count in SQL.
+11. Difference between " % " and " _ " operators.
+12. Get Manager who reports maximum number of employees.
+13. What is meterialized view.
+14. List the ID of of manager who is havinng max nuber of reportings.
+15. What is Composite key.
+16. Difference between PrimaryKey, foreign Key, Unique Key 
