@@ -67,7 +67,9 @@
         I/P: -> "{()}" -> true
         I/P: -> "{}[]" -> true
         I/P: -> "[]{" -> false
-        
+63. Explain about Transaction Management and Hibernate Transaction Types.
+64. Explain about Hibernate Isolations.
+65. Explain about Cacading types in Hibernate.
         
 ### SQL
 1. Find the Second highest second salary of Employee.
