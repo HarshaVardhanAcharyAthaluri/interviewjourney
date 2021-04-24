@@ -72,10 +72,11 @@
 65. Explain about Cacading types in Hibernate.
 66. Write the program to get follwing output.     
         ``Input:  String str="uid1:120 , uid2:10 , uid3:20 , uid1:null , uid2:10 , uid3:10, uid4:xyz , uid1:100";
+        
         ``Output:
-           `` uid1=220
-            ``uid2=20
-            ``uid3=30``
+        uid1=220
+        uid2=20
+        uid3=30``
             
         
 ### SQL
