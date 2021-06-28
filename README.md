@@ -93,3 +93,56 @@
 14. List the ID of of manager who is havinng max nuber of reportings.
 15. What is Composite key.
 16. Difference between PrimaryKey, foreign Key, Unique Key 
+
+# Angular
+1. What are the various ways of Component communications?
+2. What do you understand by life cycle hooks of a Component?
+4. Which one will be called first, ngOnChange or ngOnInit? Explain with a scenario.
+6. Let us say I have a component ABC with a property @Input() foo, and from parent component a same object with changed values is passed to foo. Also, component is set to onPush. In this scenario will ngOnChnages of component get executed?
+7. If there are 10 properties with @Input decorator, how will you find out which property is causing ngOnChanges to run?
+8. If I use a jQuery calendar control in an Angular app and it has an event selectDate. Can I use these selectDate with Angular event binding? if yes then why and if no then why.
+9. What do you understand by ViewChild and ContentChild?
+10. Can I read a ViewChild in ngOnInit() life cycle hook? If yes then how?
+11. What do you understand by Angular Service?
+12. How many objects of a service Angular creates? Can we reconfigure it to create as many objects as we want? how?
+13. What is difference between provideIn and providers?
+14. When you may need non-tree shakeable service?
+15. Can u explain me real use case of useExisting?
+16. What do you understand by lazy loaded modules?
+17. For a service how many objects Angular creates for lazy loaded modules?
+18. Let us say there are three objects a inside that b and inside that C. and there is a service Foo. I have passed Foo in the providers array of component c. Foo is also passed in the providers array of AppModule. How many objects of Foo will be created and inside C component which object will be used?
+19. How to dynamically load a component? can you explain me the process?
+20. Do Attribute directives have life cycle hooks?
+21. What is purpose of @HostBinding
+22. What do you understand by Change Detection?
+23. When we should use onPush?
+24. What is difference between detectChange and markForCheck
+24. What do you understand by dumb component and smart component?
+26. What is difference between promise and observables
+27. What is difference between observable and subjects?
+28. What are various types of subjects?
+29. When we should use BehaviorSubject?
+30. How will integrate API in angular app? best practices?
+31. Is it ok to use observable<any> if not why?
+32. What is async pipe?
+33. What do you understand by union type and intersection type?
+34. What is shallow pipe testing?
+35. What is purpose of component resolver
+36. Can you explain difference between ContentChild and ViewChild
+37. When you should use ‘any’ option of provideIn?
+38. What do understand by Content Projection?
+39. In an app there are 6 lazy loaded module, 9 eagerly loaded module, and one main module. In the app, there is one service called FooService which provideIn option is set to ‘any’. By default, how many objects Angular will create of FooService?
+40. What do you understand by partial observer?
+41. When we can use ViewProvider?
+42. How will you create custom validators for Reactive Forms?
+43. Can you explain viewEncapsulationMode?
+44. What do you understand by Shadow DOM?
+45. What do you understand by tree shakeable providers?
+46. Explain various ways of component communications
+47. What do you understand by Temp ref variables?
+48. How two unrelated components communicate in Angular
+49. What do you understand by marble diagrams?
+50. When you should use asObservable
+51. What is interceptor in Angular
+52. What is difference between useValue and useExisting
+53. Explain purpose of useValue
