@@ -74,6 +74,8 @@
     Input:  String str="uid1:120 , uid2:10 , uid3:20 , uid1:null , uid2:10 , uid3:10, uid4:xyz , uid1:100";
     Output:{uid1=220,uid2=20,uid3=30}
 67. Explain about Docker
+68. Explain Fail Fast and Fail Safe Iterator.
+69. Difference Between Cohesion and Coupling
             
         
 ### SQL
