@@ -76,6 +76,7 @@
 67. Explain about Docker
 68. Explain Fail Fast and Fail Safe Iterator.
 69. Difference Between Cohesion and Coupling
+70. What is Aggregation , Association and Composition? 
             
         
 ### SQL
