@@ -77,6 +77,7 @@
 68. Explain Fail Fast and Fail Safe Iterator.
 69. Difference Between Cohesion and Coupling
 70. What is Aggregation , Association and Composition? 
+71. Difference between inheritance and composition
             
         
 ### SQL
