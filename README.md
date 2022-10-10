@@ -77,7 +77,10 @@
 68. Explain Fail Fast and Fail Safe Iterator.
 69. Difference Between Cohesion and Coupling
 70. What is Aggregation , Association and Composition? 
-71. Difference between inheritance and composition
+71. Difference between inheritance and composition.
+72. Convert inputstream to string.
+
+
             
         
 ### SQL
@@ -97,6 +100,7 @@
 14. List the ID of of manager who is havinng max nuber of reportings.
 15. What is Composite key.
 16. Difference between PrimaryKey, foreign Key, Unique Key 
+17. Create a new empty table from existing table with same columns.
 
 # Angular
 1. What are the various ways of Component communications?
