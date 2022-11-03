@@ -79,6 +79,12 @@
 70. What is Aggregation , Association and Composition? 
 71. Difference between inheritance and composition.
 72. Convert inputstream to string.
+73. What is CountDownLatch.
+74. Java CyclicBarrier vs CountDownLatch.
+75. What is ThreadPool in Java and How many types of Thread Pools are in java explain about each thread pool.
+76. How to create immutable class in java with List object or any Collectiona object.
+77. How to create immutable class in java with mutable object.
+
 
 
             
