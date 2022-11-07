@@ -84,6 +84,15 @@
 75. What is ThreadPool in Java and How many types of Thread Pools are in java explain about each thread pool.
 76. How to create immutable class in java with List object or any Collectiona object.
 77. How to create immutable class in java with mutable object.
+78. How many types of IOC containers in Spring Framework.
+79. Difference between HashMap and ConcurrentHashMap.
+80. What is autoproxy in spring/Spring Auto proxy creator example.
+81. Spring Boot configure to use two data sources.
+82. Explain type of Annotations.
+83. What is Http2 and how to enable HTTP2 in Spring Boot.
+84. How to upload a file to s3 bucket spring boot.
+
+
 
 
 
