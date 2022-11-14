@@ -91,12 +91,31 @@
 82. Explain type of Annotations.
 83. What is Http2 and how to enable HTTP2 in Spring Boot.
 84. How to upload a file to s3 bucket spring boot.
+85. I have overloaded methods one with string and second with string builder. if call method by passing null ehich method will execute 
 
+``` java
+public class Demo {
 
+	public void print(String s) {
+		System.out.println("String ");
+	}
 
+	public void print(StringBuilder s) {
+		System.out.println("StringBuffer ");
+	}
 
+	public static void main(String[] args) {
+		Demo d = new Demo();
+		d.print(null);
+	}
+}
 
-            
+// Ans: Compile time error i.e ambiquite error i.e the method print(String) is ambiguous
+```
+```diff
+- Compile time error i.e ambiquite error i.e the method print(String) is ambiguous
+```
+
         
 ### SQL
 1. Find the Second highest second salary of Employee.
