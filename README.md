@@ -116,6 +116,7 @@ public class Demo {
 - Compile time error i.e ambiquite error i.e the method print(String) is ambiguous
 ```
 86. What are the Intermedate Operations and Terminal Operations in Stream Api.
+87. What is Composite Primary Key.
         
 ### SQL
 1. Find the Second highest second salary of Employee.
