@@ -117,7 +117,17 @@ public class Demo {
 ```
 86. What are the Intermedate Operations and Terminal Operations in Stream Api.
 87. What is Composite Primary Key.
-        
+### Intersting 
+1. Your API endpoints need to handle concurrent requests safely to prevent race conditions and ensure data consistency. How would you approach handling concurrent requests in your API?
+2. Your team is tasked with integrating a machine learning model into a Java application to perform real-time predictions. How would you design and implement the integration with the machine learning model?
+3. You are building a backend system that utilizes containerized microservices, and you want to use AWS ECS for container orchestration. How would you deploy and manage the containerized applications in ECS effectively?
+4. You need to store sensitive customer data in AWS S3 buckets. How would you ensure that the data is securely encrypted at rest and in transit?
+5. Given an undirected graph, determine whether it is bipartite using DFS.
+6. Your team needs to implement a real-time chat feature in a Java application. How would you design and implement the messaging system to handle concurrent user interactions?
+7. Your team needs to implement logging and monitoring in a Spring Boot application to track performance metrics and diagnose issues in production. How would you design and implement logging and monitoring functionalities?
+8. Your team is developing a Spring Boot application that needs to handle large file uploads efficiently. How would you design and implement file upload functionality with Spring Boot?
+9. program for prime factorial. if input is 12 -> 2,3
+
 ### SQL
 1. Find the Second highest second salary of Employee.
 2. How to get all the data from two tables.
