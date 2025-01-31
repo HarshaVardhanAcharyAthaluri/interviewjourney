@@ -127,6 +127,7 @@ public class Demo {
 7. Your team needs to implement logging and monitoring in a Spring Boot application to track performance metrics and diagnose issues in production. How would you design and implement logging and monitoring functionalities?
 8. Your team is developing a Spring Boot application that needs to handle large file uploads efficiently. How would you design and implement file upload functionality with Spring Boot?
 9. program for prime factorial. if input is 12 -> 2,3
+10. Garbage Collection in Java and Types of Garbage Collector in Java, How It works, Example
 
 ### SQL
 1. Find the Second highest second salary of Employee.
